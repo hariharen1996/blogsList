@@ -1,0 +1,24 @@
+/* Write your CSS code here */
+.user-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  flex-direction: column;
+}
+
+.user-img {
+  width: 80px;
+}
+
+.user-heading {
+  color: #12202f;
+  font-weight: 500;
+  font-size: 25px;
+}
+
+.user-text {
+  color: #616e7c;
+  font-weight: 500;
+  font-size: 17px;
+}
